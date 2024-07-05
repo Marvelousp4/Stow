@@ -1,8 +1,7 @@
 # Predicting Object Interactions with Behavior Primitives: An Application in Stowing Tasks
 Haonan Chen, Yilong Niu, Kaiwen Hong, Shuijing Liu, Yixuan Wang, Yunzhu Li, Katherine Driggs-Campbell            
 
-**CoRL 2023, Oral** | [Website](https://stow.github.io/) | [Paper](https://arxiv.org/abs/2309.16118/)
-
+**CoRL 2023, Oral** | [Website](https://haonan16.github.io/stow_page/) | [Paper](https://arxiv.org/abs/2309.16873/)
 
 
 ## Demo
